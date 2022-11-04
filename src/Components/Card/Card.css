@@ -1,0 +1,19 @@
+.card {
+    border: 1px solid darkred;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    width: 70%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h2{
+    color: darkred;
+    text-transform: uppercase;
+  }
+  

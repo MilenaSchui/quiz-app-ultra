@@ -1,5 +1,14 @@
 h1 {
-    color: darkred;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-decoration: underline;
+    width: 100%;
+    height: 60px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 1px 8px black;
+    color: whitesmoke;
+    background-color: indianred;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: darkred underline;
+    text-transform: uppercase;
 }
