@@ -1,0 +1,53 @@
+form h2 {
+    font-weight: lighter;
+    font-size: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: 40px;
+    color: #ccccd4;
+    text-shadow: 0px 0px 2px black;
+  }
+  
+  .form-style {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 4px;
+    background-color: #ccccd4;
+  }
+  
+  .form-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  #question-area {
+    border-radius: 5px;
+  }
+  
+  #answer-area {
+    border-radius: 5px;
+  }
+  
+  .button__yellow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    background-color: gold;
+    box-shadow: rgba(0, 0, 0, 0.3) 2px 2px 4px;
+    height: 10px;
+    border-radius: 5px;
+    border: none;
+    color: gold;
+    text-shadow: -1px -1px black;
+  }
+  
+  label {
+    font-size: 35px;
+    text-align: center;
+    margin: 20px auto;
+  }
